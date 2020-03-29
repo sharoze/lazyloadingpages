@@ -1,0 +1,11 @@
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 1px solid green;
+    padding: 10px;
+    margin-top: 50px;
+    /* border: 2px solid brown; */
+    /* width: 600px; */
+    text-align: center;
+  }
